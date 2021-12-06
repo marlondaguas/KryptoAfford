@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618599761633",
+    "project_id": "kryptoafford",
+    "storage_bucket": "kryptoafford.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618599761633:android:5c0048c1ae12f7d90c99a0",
+        "android_client_info": {
+          "package_name": "com.example.proyectoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618599761633-37v29un47ur07qfmglnltsv5v4u0k75o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectoapp",
+            "certificate_hash": "1813984938501934128361091123194720523493"
+          }
+        },
+        {
+          "client_id": "618599761633-ivbmodbalhuov8tkd6g63nmqhhi612qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfPgjRNdkWo9tDPAFDAJ-lqV4cDCBK70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618599761633-ivbmodbalhuov8tkd6g63nmqhhi612qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
